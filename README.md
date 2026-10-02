@@ -9,7 +9,8 @@ A simple multiplayer dungeon crawler built with Unreal Engine 5, made by a few f
    ```
    git clone https://github.com/jpdupree/SimpleDungeonCrawl.git
    ```
-3. Open the `.uproject` file with the same Unreal Engine version as everyone else.
+3. Install **Unreal Engine 5.8** and **Visual Studio 2022** with the "Game development with C++" workload (or JetBrains Rider).
+4. Open `SimpleDungeonCrawler/SimpleDungeonCrawler.uproject`. The first time, Unreal will ask to rebuild the C++ modules; say **Yes** (this takes a few minutes). If the rebuild fails, right-click the `.uproject` → **Generate Visual Studio project files**, open the `.sln`, and build the `Development Editor` configuration.
 
 ## Working together
 
