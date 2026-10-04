@@ -4,7 +4,7 @@ Short version: **pick an issue → branch → small commits → pull request →
 
 ## 1. Pick up work
 
-- All work lives in [GitHub Issues](https://github.com/jpdupree/SimpleDungeonCrawl/issues) and on the [project board](https://github.com/users/jpdupree/projects).
+- All work lives in [GitHub Issues](https://github.com/jpdupree/SimpleDungeonCrawl/issues) and on the [project board](https://github.com/users/jpdupree/projects/2).
 - Take an issue from the **Todo** column of the current milestone. Assign yourself and move it to **In Progress**.
 - Only hold **1–2 issues at a time**. If life gets busy, unassign yourself and leave a comment — no guilt, that's how the board stays honest.
 - Issues labeled `good first issue` are a gentle starting point for anyone new to Unreal or git.
